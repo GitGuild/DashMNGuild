@@ -14,6 +14,10 @@ As a child guild, the DashMN Guild reserves the right to maintain their own memb
 
 The DashMN Guild agrees to recognize all transctions on the parent ledger.
 
+The DashMN Guild agrees to abide by the charter of the parent guild, and the valid votes of the parent guild's members. The DashMN Guild will maintain it's own membership and ledger, and will issue a DashMN Guild Coin (GDASH).
+
+The DashMN Guild asks that the parent guild recognize their ledger and contracts by hashing a submodule link to their chain. The DashMN Guild asks for preferential treatment in feature requests for projects governed by the parent guild.
+
 ### Voting
 
 Currently, Dash masternodes are not compatible with multisignature addresses. Therefore, a single key must be used, with at least one person capable of spending the balance of DASH. If many masternodes are run, different keyholders could be selected, to at least distribute the counterparty risk, but it is a singificant problem.
