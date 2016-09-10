@@ -13,7 +13,7 @@ P 2016/09/10 12:00:00 DASH $11.3
 
 P 2016/09/10 12:00:01 GDASH 1 DASH
 
-2016/09/10 12:01:00 * TGG Transition
+2016/09/10 12:01:02 * TGG Transition
     ; Actually control of masternodes on
     ; XapCv7mRCZ8R9EpRgnRR4jiAbKqiF2MGa5
     ; XwAtqVdFdRE8hpMyMSjhrbYbNF7mZM6qxy
@@ -24,7 +24,19 @@ P 2016/09/10 12:00:01 GDASH 1 DASH
     GDASH:Issued                  -4000 GDASH
     LegacyGitGuild            4000 GDASH
 
-2016/09/10 12:00:00 * TAPP Guild Funding
+2016/09/10 12:00:03 * TAPP Guild Funding
     LegacyGitGuild           -400 GDASH
     FX:GDASH:TAPPGuild             400 GDASH
+
+2016/09/10 14:00:00 * Wallet Guild Funding
+    LegacyGitGuild           -1000 GDASH
+    FX:GDASH:WalletGuild             1000 GDASH
+
+2016/09/10 14:00:00 * Trade Guild Funding
+    LegacyGitGuild           -600 GDASH
+    FX:GDASH:TradeGuild             600 GDASH
+
+2016/09/10 14:00:00 * CTM Guild Funding
+    LegacyGitGuild           -2000 GDASH
+    FX:GDASH:CTMGuild             2000 GDASH
 
