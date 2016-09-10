@@ -1,0 +1,30 @@
+; -*- ledger -*-
+
+P 2016/09/10 12:00:00 DASH $11.3
+
+2016/09/10 12:00:00 * Founder Block
+    ; Actually control of masternode on Xh4GuTaGPZ9Rtjqm2ME1dY2g8toGhvWJdH
+    Assets:Treasury               1003.92 DASH
+    FX:DASH:GitGuild                 -1003.92 DASH
+    XP:Issued                     -1 XP
+    XP:Earned:isysd               1 XP
+    GDASH:Issued                   -1003.92 GDASH
+    FX:GDASH:GitGuild              1003.92 GDASH
+
+P 2016/09/10 12:00:01 GDASH 1 DASH
+
+2016/09/10 12:01:00 * TGG Transition
+    ; Actually control of masternodes on
+    ; XapCv7mRCZ8R9EpRgnRR4jiAbKqiF2MGa5
+    ; XwAtqVdFdRE8hpMyMSjhrbYbNF7mZM6qxy
+    ; XqnwKQSeDe7KFEYS6HQGmmbMZZrrA2J7Vi
+    ; Xtk9wAwjhid8Lhy41PD47kuBfWfZMJ2uGN
+    Assets:Treasury               4000 DASH
+    FX:DASH:LegacyGitGuild        -4000 DASH
+    GDASH:Issued                  -4000 GDASH
+    LegacyGitGuild            4000 GDASH
+
+2016/09/10 12:00:00 * TAPP Guild Funding
+    LegacyGitGuild           -400 GDASH
+    FX:GDASH:TAPPGuild             400 GDASH
+
