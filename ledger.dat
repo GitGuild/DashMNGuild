@@ -47,3 +47,11 @@ P 2016/09/10 12:00:01 GDASH 1 DASH
     GDASH:Issued                  -584.95 GDASH
     LegacyGitGuild                584.95 GDASH
 
+2016/09/11 09:00:00 * Node40 hosting credit
+    ; Node40 gave a hosting credit for refunded yearly hosting.
+    ; It was donated by the legacy Git Guild.
+    Assets:Treasury               87.942 Node40DASH
+    FX:DASH:Node40                -87.942 Node40DASH
+    GDASH:Issued                  -87.942 GDASH
+    LegacyGitGuild                87.942 GDASH
+
