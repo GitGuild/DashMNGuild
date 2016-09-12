@@ -3,13 +3,15 @@
 P 2016/09/10 12:00:00 DASH $11.3
 
 2016/09/10 12:00:00 * Founder Block
+    Experience                    -1 XP
+    isysd:Assets                  1 XP
+
+2016/09/10 12:00:00 * Funding Block
     ; Actually control of DASH on Xh4GuTaGPZ9Rtjqm2ME1dY2g8toGhvWJdH
-    Assets:Treasury               1003.92 DASH
-    FX:DASH:GitGuild                 -1003.92 DASH
-    XP:Issued                     -1 XP
-    XP:Earned:isysd               1 XP
-    GDASH:Issued                   -1003.92 GDASH
-    FX:GDASH:GitGuild              1003.92 GDASH
+    Assets                        1003.92 DASH
+    FX:LegacyGG                   -1003.92 DASH
+    Liabilities                   -1003.92 GDASH
+    GX:GitGuild                   1003.92 GDASH
 
 P 2016/09/10 12:00:01 GDASH 1 DASH
 
@@ -19,43 +21,22 @@ P 2016/09/10 12:00:01 GDASH 1 DASH
     ; XwAtqVdFdRE8hpMyMSjhrbYbNF7mZM6qxy
     ; XqnwKQSeDe7KFEYS6HQGmmbMZZrrA2J7Vi
     ; Xtk9wAwjhid8Lhy41PD47kuBfWfZMJ2uGN
-    Assets:Treasury               4000 DASH
-    FX:DASH:LegacyGitGuild        -4000 DASH
-    GDASH:Issued                  -4000 GDASH
-    LegacyGitGuild            4000 GDASH
-
-2016/09/10 12:00:03 * TAPP Guild Funding
-    LegacyGitGuild           -400 GDASH
-    FX:GDASH:TAPPGuild             400 GDASH
-
-2016/09/10 14:00:00 * Wallet Guild Funding
-    LegacyGitGuild           -1000 GDASH
-    FX:GDASH:WalletGuild             1000 GDASH
-
-2016/09/10 14:00:00 * Trade Guild Funding
-    LegacyGitGuild           -600 GDASH
-    FX:GDASH:TradeGuild             600 GDASH
-
-2016/09/10 14:00:00 * CTM Guild Funding
-    LegacyGitGuild           -2000 GDASH
-    FX:GDASH:CTMGuild             2000 GDASH
+    Assets                        4000 DASH
+    FX:LegacyGG                   -4000 DASH
+    Liabilities                   -4000 GDASH
+    GX:TAPPGuild                  400 GDASH
+    GX:WalletGuild                1000 GDASH
+    GX:TradeGuild                 600 GDASH
+    GX:CTMGuild                   2000 GDASH
 
 2016/09/10 15:00:00 * More Legacy Git Guild Funding
     ; Actually control of DASH on Xmot99UQxgzWDZtyzxs7NDPDAGU9DdYuU9
-    Assets:Treasury               584.95 DASH
-    FX:DASH:LegacyGitGuild        -584.95 DASH
-    GDASH:Issued                  -584.95 GDASH
-    LegacyGitGuild                584.95 GDASH
-
-2016/09/11 09:00:00 * Node40 hosting credit
-    ; Node40 gave a hosting credit for refunded yearly hosting.
-    ; It was donated by the legacy Git Guild.
-    Assets:Treasury               87.942 NFrtyDASH
-    FX:DASH:Node40                -87.942 NFrtyDASH
-    GDASH:Issued                  -87.942 GDASH
-    LegacyGitGuild                87.942 GDASH
+    Assets                        584.95 DASH
+    FX:LegacyGG                   -584.95 DASH
+    Liabilities                   -584.95 GDASH
+    Assets                        584.95 GDASH
 
 2016/09/10 10:17:00 * Second member XP bonus
-    XP:Issued                     -0.01 XP
-    XP:Earned:schinzelh           0.01 XP
+    Experience                    -0.01 XP
+    schinzelh:Assets              0.01 XP
 

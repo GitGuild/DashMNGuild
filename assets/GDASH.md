@@ -6,13 +6,13 @@ Each GDASH represents a claim against the DashMN Guild Treasury. This treasury i
 
 X DASH
 
-The DashMN Guild Treasury will fund this project from its managed funds, listed in Assets:Treasury.
+The DashMN Guild Treasury will fund this project from its managed funds, listed in Assets.
 
 ### Revenues
 
 Each Dash masternode costs 1,000 DASH. The expected annual interest from a Dash Masternode is 10,05%, or 100.5 DASH. In the first half of 2016, Dash appreciated 132% in value, from $3.50 to $8.11.
 
-Any revenue generated after the above fees should be accounted in the ledger as Assets:Treasury balance, backing GDASH.
+Any revenue generated after the above fees should be accounted in the ledger as Assets balance, backing GDASH.
 
 Due to fees and revenue, GDASH may be worth more or less than 1 DASH over time.
 
